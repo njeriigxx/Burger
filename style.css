@@ -1,0 +1,127 @@
+/* body {
+    height: auto;
+    margin: 0px;
+    background-color: #f7fdf6;
+
+}
+.nav bar {
+    height: auto;
+    margin: 0px;
+    padding: 20px;
+}
+
+#Logo img{
+    width:100px;
+    height:30px;
+    float: left;
+    margin-top: 5px;
+    }
+
+    .navbar{
+  
+        height: auto;
+        padding: 35px;
+        margin: 0px;
+    }
+    .navbar li{
+    height: auto;
+    display: inline;
+    float: right;
+    padding: 50px;
+    padding-top: 0px;
+    justify-content: center;
+    font-weight: bold;
+    }
+
+ 
+.basket-icon {
+margin-top: 0%;
+     
+}
+.end{
+    justify-content: space-between;
+    display: flex;
+    margin:200px;
+    
+}
+.email{
+    float: right;
+    position: relative;
+    top: -155px;
+    margin: 50px;
+}
+.menu{
+    display: flex;
+    color:#AF8990;
+    justify-content: space-between;
+}
+
+.the-burgers{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 500px;
+    margin: 10px;
+    border-radius: 25px;
+    color: black;
+    flex-direction: row;
+    
+    
+}
+
+.food {
+    display: flex;
+    color:#AF8990;
+    justify-content: space-between;
+}
+
+.zinger-burger {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 500px;
+    margin: 10px;
+    border-radius: 25px;
+    color: black;
+}
+
+.footer {
+    background-color: #f7fdf6;
+    font-weight: normal; 
+}
+
+.about {
+    background-color: #f7fdf6;
+    display: flex;
+    justify-content: space-evenly;
+}
+.quality {
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 200px;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 100px;
+    width: 300px;  
+}
+
+.delivery {
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 250px;
+    margin: 25px;
+    border-radius: 25px;
+    padding: 150px;
+    width: 350px;  
+}
+
+.meals {
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 200px;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 100px;
+    width: 300px;
+
+   
+    
+} */
