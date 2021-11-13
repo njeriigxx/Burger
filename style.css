@@ -48,7 +48,7 @@ margin-top: 0%;
     
     float: right;
     position: relative;
-    top: -155px;
+    top: -15px;
     margin: 50px;
 }
 .menu{
@@ -57,7 +57,7 @@ margin-top: 0%;
     justify-content: space-between;
 }
 
-/* .the-burgers{
+ .the-burgers{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     height: 500px;
@@ -126,4 +126,4 @@ margin-top: 0%;
     width: 300px; 
 }
    
-      */ */ */ */ */
+
